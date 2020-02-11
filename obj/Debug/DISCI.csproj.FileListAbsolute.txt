@@ -1,0 +1,14 @@
+c:\users\minci\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\minci\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\minci\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\minci\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\DISCI.csprojResolveAssemblyReference.cache
+c:\users\minci\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.HASTA_BILGI.resources
+c:\users\minci\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.ANASAYFA.resources
+c:\users\minci\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\minci\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\DISCI.csproj.GenerateResource.Cache
+c:\users\minci\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\minci\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+c:\users\minci\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.RANDEVU_EKRANI.resources
+C:\Users\MINCI\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.MUAYENE_EKRANI.resources
+C:\Users\MINCI\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.KASA_EKRANI.resources
+C:\Users\MINCI\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form3.resources
