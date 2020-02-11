@@ -1,4 +1,4 @@
-# Dis Klinigi Otomasyonu
+# Diş Kliniği Otomasyonu
 ### Programın Amacı:
 Bir diş kliniğinde günlük rutinde yapılabilecek her türlü işlemin kayıtlarının tutulduğu bir uygulama geliştirmek.
 
